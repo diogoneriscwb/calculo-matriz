@@ -19,6 +19,7 @@ O software foi construído seguindo o paradigma de **Programação Orientada a O
 
 O projeto segue a estrutura padrão de um projeto Maven, facilitando a navegação e a compreensão da sua organização.
 
+```
 calculo-matriz/
 ├── pom.xml
 ├── README.md
@@ -31,6 +32,7 @@ calculo-matriz/
                     ├── Matriz.java            # Classe que representa o objeto Matriz e suas operações de leitura
                     └── Calculadora.java       # Classe com as funções de cálculo
 
+```
 ---
 
 ## Como Utilizar (Para Outros Desenvolvedores)
