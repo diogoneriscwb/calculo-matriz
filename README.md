@@ -49,7 +49,7 @@ Certifique-se de que as seguintes ferramentas estão instaladas e configuradas e
 ### 1. Clonar o Repositório
 
 ```bash
-git clone <URL_do_seu_repositorio>
+git clone <https://github.com/diogoneriscwb/calculo-matriz>
 cd calculo-matriz
 ```    
 ### 2. Preparar os Arquivos de Entrada
